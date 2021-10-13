@@ -9,6 +9,9 @@ Repo name has been derived from the concept ExoSkeleton which enables or empower
 2. [Everything](https://www.voidtools.com/) - Freeware. Local file indexer to search files blazing fast across the machine for Windows.
 3. [Microsoft Powertoys](https://github.com/microsoft/PowerToys) - A FOSS set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 4. [Cmder](https://github.com/cmderdev/cmder) - FOSS. Lovely console emulator package for Windows.
+5. [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - FOSS. simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. Uses - avoid locking of system, screensavers etc
+6. [LightBulb](https://github.com/Tyrrrz/LightBulb) - FOSS. Alternative to popular tool Flu.x. Reduces eye strain by adjusting gamma based on the current time.
+7. [Flux](https://justgetflux.com/) - Propietary but free. Reduce eyestrain. 
 <br />
 
 ## Developer Productivity
