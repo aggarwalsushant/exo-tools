@@ -12,7 +12,7 @@ Repo name has been derived from the concept ExoSkeleton which enables or empower
 5. [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - FOSS. simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. Uses - avoid locking of system, screensavers etc
 6. [LightBulb](https://github.com/Tyrrrz/LightBulb) - FOSS. Alternative to popular tool Flu.x. Reduces eye strain by adjusting gamma based on the current time.
 7. [Flux](https://justgetflux.com/) - Propietary but free. Reduce eyestrain. 
-8. [ScreenPresso](https://www.screenpresso.com) - Freewware version Screenpresso is a NEW Light-weight screen grab tool with built-in image editor, user guide generator and sharing options.
+8. [ScreenPresso](https://www.screenpresso.com) - Freeware version availavle. Screenpresso is a NEW Light-weight screen grab tool with built-in image editor, user guide generator and sharing options.
 <br />
 
 ## Developer Productivity
