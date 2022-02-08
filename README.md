@@ -44,3 +44,9 @@ Repo name has been derived from the concept ExoSkeleton which enables or empower
 9. [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) <img src="https://laurentkempe.gallerycdn.vsassets.io/extensions/laurentkempe/gitdiffmargin/3.12.1/1628110393905/Microsoft.VisualStudio.Services.Icons.Default" width="40"> - A FOSS, displays live Git changes of the currently edited file on Visual Studio margin and scroll bar. Supports Visual Studio 2012 through Visual Studio 2022
 10. [SonarLint](https://github.com/SonarSource/sonarlint-visualstudio) <img src="https://sonarsource.gallerycdn.vsassets.io/extensions/sonarsource/sonarlintforvisualstudio2022/5.1.0.39724/1637163880038/Microsoft.VisualStudio.Services.Icons.Default" width=20> - A FOSS, SonarLint helps you detect and fix Bugs, Code Smells, and Security Vulnerabilities. It supports C#, VB.NET, C, C++, JS, and TS. The extension highlights coding flaws on the fly and provides clear GUI.
 11. [CodeMaid](https://github.com/codecadwallader/codemaid) <img src="https://www.vsixgallery.com/extensions/4c82e17d-927e-42d2-8460-b473ac7df316/icon-12.0.png?v=D6bq1U66x8xJnb7UCPkg0wbJHnjI-qDQ8xQiVOH8ohM" width=30> - A FOSS, CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.>
+
+<br />
+
+## Useful Projects (NuGet)
+1. [UnitsNet](https://github.com/angularsen/UnitsNet) - MIT License. Makes life working with units of measurement just a little bit better.
+2. [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - MIT license, Powerful .NET library for benchmarking
