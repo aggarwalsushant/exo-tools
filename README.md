@@ -5,16 +5,18 @@ Repo name has been derived from the concept ExoSkeleton which enables or empower
 <br />
 
 ## General operational productivity
-1. [Ditto](https://github.com/sabrogden/ditto) - FOSS Clipboard Manager for Windows
-2. [Everything](https://www.voidtools.com/) - Freeware. Local file indexer to search files blazing fast across the machine for Windows.
-3. [Microsoft Powertoys](https://github.com/microsoft/PowerToys) - A FOSS set of utilities for power users to tune and streamline their Windows experience for greater productivity.
-4. [Cmder](https://github.com/cmderdev/cmder) - FOSS. Lovely console emulator package for Windows.
-5. [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - FOSS. simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. Uses - avoid locking of system, screensavers etc
-6. [LightBulb](https://github.com/Tyrrrz/LightBulb) - FOSS. Alternative to popular tool Flu.x. Reduces eye strain by adjusting gamma based on the current time.
-7. [Flux](https://justgetflux.com/) - Propietary but free. Reduce eyestrain. 
-8. [ScreenPresso](https://www.screenpresso.com) - Freeware version available. Screenpresso is a NEW Light-weight screen grab tool with built-in image editor, user guide generator and sharing options.
-9. [Obsidian](https://obsidian.md/) - FOSS. Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. Leverages Zettlekasten method given by Niklas Luhmann (A German Sociologist). Touted as a "SECOND BRAIN".
-10. [Joplin](https://github.com/laurent22/joplin) <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" width=20> - FOSS. Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format. Notes exported from Evernote via .enex files can be imported into Joplin. The notes can be synchronised with various cloud services including Nextcloud, Dropbox, OneDrive, WebDAV or the file system (for example with a network directory).
+1. [Hitman](https://github.com/aggarwalsushant/Hitman) - FOSS. Small, nifty windows based utility to kill processes on the fly based on text match.
+2. [Ditto](https://github.com/sabrogden/ditto) - FOSS Clipboard Manager for Windows
+3. [Everything](https://www.voidtools.com/) - Freeware. Local file indexer to search files blazing fast across the machine for Windows.
+4. [Microsoft Powertoys](https://github.com/microsoft/PowerToys) - A FOSS set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+5. [Cmder](https://github.com/cmderdev/cmder) - FOSS. Lovely console emulator package for Windows.
+6. [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - FOSS. simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. Uses - avoid locking of system, screensavers etc
+7. [LightBulb](https://github.com/Tyrrrz/LightBulb) - FOSS. Alternative to popular tool Flu.x. Reduces eye strain by adjusting gamma based on the current time.
+8. [Flux](https://justgetflux.com/) - Propietary but free. Reduce eyestrain. 
+9. [ScreenPresso](https://www.screenpresso.com) - Freeware version available. Screenpresso is a NEW Light-weight screen grab tool with built-in image editor, user guide generator and sharing options.
+10. [Obsidian](https://obsidian.md/) - FOSS. Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. Leverages Zettlekasten method given by Niklas Luhmann (A German Sociologist). Touted as a "SECOND BRAIN".
+11. [Joplin](https://github.com/laurent22/joplin) <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" width=20> - FOSS. Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format. Notes exported from Evernote via .enex files can be imported into Joplin. The notes can be synchronised with various cloud services including Nextcloud, Dropbox, OneDrive, WebDAV or the file system (for example with a network directory).
+12. [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - FOSS - Dedicated to making your workflow flow more seamless. Search everything from applications, files, bookmarks, YouTube, Twitter and more. Flow will continue to evolve, designed to be open and built with the community at heart. See it as an alternative to Alfred or Wox.
 <br />
 
 ## Developer Productivity
@@ -30,7 +32,7 @@ Repo name has been derived from the concept ExoSkeleton which enables or empower
 9. [CodeMaid](https://github.com/codecadwallader/codemaid) <img src="https://www.vsixgallery.com/extensions/4c82e17d-927e-42d2-8460-b473ac7df316/icon-12.0.png?v=D6bq1U66x8xJnb7UCPkg0wbJHnjI-qDQ8xQiVOH8ohM" width=30> - A FOSS, CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.>
 10. [Code Cleanup On Save](https://github.com/madskristensen/CodeCleanupOnSave) <img src="https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/codecleanuponsave/1.0.12/1623431317897/Microsoft.VisualStudio.Services.Icons.Default" width=20> - FOSS. Automatically runs one of the Code Clean profiles when saving the document. This ensures your code is always formatted correctly and follows your coding style conventions.
 11. [One Dark Pro](https://github.com/AdrianWilczynski/OneDarkPro) <img src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/one-dark-pro/3.0/1632249378411/Microsoft.VisualStudio.Services.Icons.Default" width=20> - FOSS. One Dark Pro theme for Visual Studio generated using Alexander Teinum's Dainty for Visual Studio, saved with Visual Studio Color Theme Designer and tweaked to closer match Binaryify's One Dark Pro theme for Visual Studio Code.
-12. [Hitman](https://github.com/aggarwalsushant/Hitman) - FOSS. Small, nifty windows based utility to kill processes on the fly based on text match.
+12. [Solution colors](https://github.com/madskristensen/SolutionColors) - FOSS - Allows you to associate a color with a solution or folder and display it in various locations within Visual Studio. Inspired by the Peacock extension for VS Code and this Visual Studio feature request.
 
 
 ### Visual Studio Plugins (as of now for version 2019)
